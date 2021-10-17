@@ -39,7 +39,7 @@ var popup = L.responsivePopup()
   .setContent(
    '<h2>Ge🌎grapher Freelance</h2>\
     <p>Hi everyone! My name is Antony 🤓 , pleased to meet you </p><br>\
-    <img src="https://avatars.githubusercontent.com/u/23284899?s=400&u=2d12c02816bc399456bb1cec9c3ceaeff41adc11&v=4" heigth="50px">'
+    <img src="https://avatars.githubusercontent.com/u/23284899?s=400&u=2d12c02816bc399456bb1cec9c3ceaeff41adc11&v=4" heigth="20px">'
    );
 
 L.marker([-11.83,-77.08]).addTo(map).bindPopup(popup).openPopup();
